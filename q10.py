@@ -1,0 +1,4 @@
+# 10. Convert a string into uppercase and lowercase.
+text = input("Enter a string: ")
+print("Uppercase:", text.upper())
+print("Lowercase:", text.lower())
